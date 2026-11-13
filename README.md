@@ -21,3 +21,7 @@ Pages가 활성화된 뒤 위 주소에서 읽을 수 있습니다. 로컬에서
 ## 검증 범위
 
 웹 예제·목차·모바일 표시를 브라우저에서 검증했습니다. Android SDK 전체 앱 빌드와 Windows/Mac 설치 프로그램은 직접 실행하지 않았으며 설치 안내는 공식 문서와 대조했습니다.
+
+## 추가 수업 · Git 설치와 Android Studio 소스 공유
+
+[보충 수업 바로 가기](studyApp.html#android-git): Git 설치·Test·GitHub 로그인, 프로젝트 범위·.gitignore, 최초 공유·Clone, 변경 확인·Commit·Push·Pull, 문제 해결과 숙제.
