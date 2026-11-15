@@ -25,3 +25,7 @@ Pages가 활성화된 뒤 위 주소에서 읽을 수 있습니다. 로컬에서
 ## 추가 수업 · Git 설치와 Android Studio 소스 공유
 
 [보충 수업 바로 가기](studyApp.html#android-git): Git 설치·Test·GitHub 로그인, 프로젝트 범위·.gitignore, 최초 공유·Clone, 변경 확인·Commit·Push·Pull, 문제 해결과 숙제.
+
+## 실제 폰 USB 연결 보완
+
+[Windows USB 드라이버·실제 폰 연결](studyApp.html#usb-driver): 삼성 공식 드라이버 다운로드·설치, 제조사 구분, 폰 디버깅 허용, Windows 장치 관리자, ADB 상태와 Studio 실행까지 1장에 추가했습니다.
